@@ -24,7 +24,7 @@
 }
 
 .ward-34 {
-  background-image: url(../img/ward.png );
+  background-image: url(../img/ward.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -45,7 +45,7 @@
 
 .conta {
   height: 140px;
-  width:190px;
+  width: 190px;
   position: relative;
   top: -40px;
 }
@@ -63,7 +63,6 @@
 .logo-design img {
   width: 140px;
 }
-
 
 @media (min-width: 768px) {
   .footer-lg {
