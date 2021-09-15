@@ -188,6 +188,17 @@ nav a:hover {
   gap: 25px;
 }
 
+.contr{
+  width: 100px;
+  height: 100px;
+  position: relative;
+  top: -40px;
+}
+
+h5 {
+  color: rgb(202, 56, 56);
+}
+
 @media (min-width: 992px) {
   .navbar-expand-lg .navbar-collapse {
     background-color: transparent;
