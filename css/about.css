@@ -24,21 +24,22 @@
 }
 
 .ward-34 {
-  background-image: url(../img/ward-34.jpg );
+  background-image: url(../img/ward.png );
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   height: 250px;
+  width: 350px;
   color: #fbfbfb;
-  filter: blur(4px);
 }
 
-.Conference-2017 {
-  background-image: url(../img/2017_conference.png);
+.ward-40 {
+  background-image: url(../img/wardl.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   height: 250px;
+  width: 350px;
   color: #fcfffd;
 }
 
