@@ -177,7 +177,11 @@ nav a:hover {
 
 .hello-text {
   font-size: 30px;
-  font-weight: 00;
+}
+
+.ham {
+  height: 70px;
+  width: 70px;
 }
 
 @media (min-width: 992px) {
