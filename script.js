@@ -45,15 +45,15 @@ const speakers = [
 ];
 
 const imgs = (() => {
-    const img = document.createElement('img');
-    return img;
-  });
+  const img = document.createElement('img');
+  return img;
+})
   
-  for (let eachCollab = 0; eachCollab < speakersList.length; eachCollab += 1) {
-    const speakerNodes = speakersList[eachCollab].childNodes;
-    speakerNodes[1].appendChild(imgs()).src = speakers[eachCollab].img;
-    const collabInfoNodes = speakerNodes[3].childNodes;
-    collabInfoNodes[1].innerHTML = speakers[eachCollab].mutauri;
-    collabInfoNodes[3].innerHTML = speakers[eachCollab].title;
-    collabInfoNodes[5].innerHTML = speakers[eachCollab].background;
+for (let eachCollab = 0; eachCollab < speakersList.length; eachCollab += 1) {
+  const speakerNodes = speakersList[eachCollab].childNodes;
+  speakerNodes[1].appendChild(imgs()).src = speakers[eachCollab].img;
+  const collabInfoNodes = speakerNodes[3].childNodes;
+  collabInfoNodes[1].innerHTML = speakers[eachCollab].mutauri;
+  collabInfoNodes[3].innerHTML = speakers[eachCollab].title;
+  collabInfoNodes[5].innerHTML = speakers[eachCollab].background;
 }
