@@ -28,7 +28,7 @@
 
 # Live Demo
 
-[Community development] (https://mutinhiri.github.io/capstone)
+[Community development] (https://mutinhiri.github.io/capstonepr)
 
 
 ## Authors
