@@ -1,4 +1,4 @@
-const navBar = document.querySelector('#navbarNav')
+const navBar = document.getElementById('navbarNav')
 const menu = document.querySelector('.hamburger')
 const closeBtn = document.querySelector('.close')
 
