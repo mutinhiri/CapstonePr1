@@ -102,7 +102,7 @@ p {
 
 .event-bg {
   background: #3c3f46;
-  height: 200px;
+  height: 350px;
   width: 100%;
 }
 
@@ -177,7 +177,7 @@ nav a:hover {
 
 .hello-text {
   font-size: 30px;
-  font-weight: 400;
+  font-weight: 00;
 }
 
 @media (min-width: 992px) {
