@@ -184,6 +184,10 @@ nav a:hover {
   width: 70px;
 }
 
+.mawaya {
+  gap: 25px;
+}
+
 @media (min-width: 992px) {
   .navbar-expand-lg .navbar-collapse {
     background-color: transparent;
@@ -200,6 +204,10 @@ nav a:hover {
     background-repeat: no-repeat;
     background-size: cover;
     background-blend-mode: multiply;
+  }
+
+  .mawaya {
+    gap: 295px;
   }
 }
 
