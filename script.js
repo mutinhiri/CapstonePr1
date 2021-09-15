@@ -1,6 +1,7 @@
-const navBar = document.getElementById('navbarNav')
-const menu = document.querySelector('.hamburger')
-const closeBtn = document.querySelector('.close')
+const navBar = document.getElementById('navbarNav');
+const menu = document.querySelector('.hamburger');
+const closeBtn = document.querySelector('.close');
+const eventSpeakers = document.querySelectorAll('.f-speaker');
 
 const toggle = () => {
     navBar.classList.toggle('d-none');
@@ -11,3 +12,10 @@ const toggle = () => {
 
 menu.addEventListener('click', toggle);
 closeBtn.addEventListener('click', toggle);
+
+const speakers = [
+    {
+        mutauri: 'John Phiri',
+        title: ''
+    }
+]
