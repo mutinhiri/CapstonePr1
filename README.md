@@ -33,7 +33,7 @@
 
 # Live Demo
 
-[Community development] (https://mutinhiri.github.io/capstonepr)
+[Community development] (https://mutinhiri.github.io/Capstonepr1)
 
 
 ## Authors
@@ -45,6 +45,10 @@
 - LinkedIn: [barnabas mutinhiri](https://linkedin.com/in/bunbee)
 
 # Credits : Cindy Shin
+
+# Acknowledgements 
+
+[Cindy-Shin] (https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
 
 
 ## 🤝 Contributing
