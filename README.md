@@ -4,7 +4,7 @@
 
 # Community Development 
 
-> ![screenshot] (img/ScreenCap.png)
+![screenshot](img/ScreenCap.png)
 
 >This website if a community development website dedicated for my local city
 
