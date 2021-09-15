@@ -47,8 +47,8 @@ const speakers = [
 const imgs = (() => {
   const img = document.createElement('img');
   return img;
-})
-  
+});
+
 for (let eachCollab = 0; eachCollab < speakersList.length; eachCollab += 1) {
   const speakerNodes = speakersList[eachCollab].childNodes;
   speakerNodes[1].appendChild(imgs()).src = speakers[eachCollab].img;
