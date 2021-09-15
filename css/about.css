@@ -5,7 +5,7 @@
   color: #272a31;
 }
 
-#gmail {
+.email {
   color: black;
   display: block;
 }
@@ -23,13 +23,14 @@
   height: 150px;
 }
 
-.Conference-2019 {
-  background-image: url(../img/2019_conference.png);
+.ward-34 {
+  background-image: url(../img/ward-34.jpg );
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   height: 250px;
   color: #fbfbfb;
+  filter: blur(4px);
 }
 
 .Conference-2017 {
@@ -40,6 +41,28 @@
   height: 250px;
   color: #fcfffd;
 }
+
+.conta {
+  height: 140px;
+  width:190px;
+  position: relative;
+  top: -40px;
+}
+
+.hello-text {
+  display: none;
+}
+
+.logo-design {
+  display: flex;
+  gap: 50px;
+  font-size: 30px;
+}
+
+.logo-design img {
+  width: 140px;
+}
+
 
 @media (min-width: 768px) {
   .footer-lg {
