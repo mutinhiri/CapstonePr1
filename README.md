@@ -44,12 +44,6 @@
 - Twitter: [@Bunbee2271](https://twitter.com/@Bunbee2271)
 - LinkedIn: [barnabas mutinhiri](https://linkedin.com/in/bunbee)
 
-# Credits : Cindy Shin
-
-# Acknowledgements 
-
-[Cindy-Shin] (https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
-
 
 ## 🤝 Contributing
 
@@ -61,7 +55,7 @@ Contributions, issues, and feature requests are welcome!
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
+[Cindy-Shin] (https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
 - Thanks to Microverse community
 
 ## 📝 License
