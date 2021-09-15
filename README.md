@@ -15,7 +15,12 @@
 - CSS3
 - Bootstrap
 
+## Live presentation
+
+- https://www.loom.com/share/8feee13007f2414182ba4ef53aee9173
+
 ### Usage
+
  - to get a local copy up and running follow these simple example steps.
 
 - Open terminal
