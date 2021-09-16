@@ -44,6 +44,21 @@ h3 {
   color: #ec5242;
 }
 
+.header{
+  display: flex;;
+}
+
+.header p {
+  font-size: 10px;
+  font-family: 'COCOGOOSE', Arial, Helvetica, sans-serif
+}
+
+.header-img {
+  height: 60px;
+  width: 60px;
+  position: relative;
+  top: -9px;
+}
 .intro-bg {
   background-color: #d3d3d3;
 }
@@ -52,10 +67,15 @@ p {
   font-family: 'Lato', Arial, Helvetica, sans-serif;
 }
 
+.hbground {
+  background-color: #d3d3d3;
+}
+
 .intro-details {
   max-width: 600px;
   border: 2px solid #fff;
   font-family: 'Lato', Arial, Helvetica, sans-serif;
+  padding: 20px;
 }
 
 .show {
@@ -109,6 +129,7 @@ p {
 .intro .date {
   color: #272a31;
 }
+
 
 .event-bg h3 {
   color: #ec5242;
@@ -180,9 +201,22 @@ nav a:hover {
   font-size: 30px;
 }
 
+.phello-text {
+  font-size: 25px;
+  color:#ec5242;
+}
+
 .ham {
-  height: 70px;
-  width: 70px;
+  margin-top: 18px;
+  height: 30px;
+  width: 40px;
+  position: relative;
+  top: -50px;
+}
+
+.first-page {
+  position: relative;
+  top: -90px;
 }
 
 .mawaya {
@@ -226,6 +260,11 @@ h5 {
 @media (min-width: 768px) {
   .event-bg {
     width: 200px;
+  }
+
+  .first-page{
+    position: relative;
+    top: -30px;
   }
 }
 
