@@ -119,10 +119,31 @@ p {
 
 .proj {
   display: flex;
+  gap: 10px;
   background: #3c3f46;
-  height: 300px;
+  height: 200px;
+  padding-top: 60px;
+  max-width: 600px
 }
 
+.projimage {
+  width: 70px;
+  height: 70px;
+  border-radius: 8px;
+  margin-right: 20px;
+  margin-left: 40px;
+}
+
+.projtext {
+  color: #ec5242;
+  border: 1px solid gray;
+}
+
+.projtxt2 {
+  padding: 20px;
+  border: 1px solid green;
+  font-size: 13px;
+}
 .underline hr {
   margin: 1rem auto;
   background-color: #ec5242;
