@@ -14,6 +14,10 @@
   background-color: #2e2e2e;
 }
 
+.footerp {
+  margin-right: 60px;
+}
+
 .partner-header,
 .footer-bg ul > li {
   color: #fbfbfb;
@@ -66,11 +70,28 @@
   margin-top: 50px;
 }
 
+.logitep {
+  display: flex;
+  margin-left: 50px;
+  justify-content: space-around;
+}
+
+.footlogo {
+  display: flex;
+
+}
+
 @media (min-width: 768px) {
   .footer-lg {
     background-color: #2e2e2e;
     color: #fbfbfb;
   }
+
+  .footr {
+    background-color: #2e2e2e;
+    color: #fbfbfb;
+  }
+
 
   .partner {
     display: none;

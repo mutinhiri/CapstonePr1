@@ -305,9 +305,10 @@ h5 {
 
 .more {
   text-align: center;
-  border: 2px solid red;
+  border: 2px solid gray;
   padding: 20px;
   font-size: 20px;
+  width: 98%;
 }
 
 .lastfoot {
@@ -398,6 +399,10 @@ h5 {
 
   .lastfoot {
     display: block;
+  }
+
+  .footlogo {
+    display: flex;
   }
 
   .partnerimj img{
