@@ -17,7 +17,7 @@
 
 ## Live presentation
 
-https://drive.google.com/file/d/1xbWiByBpvsrHnwA5M1SkdVV5oY7w40aV/view?usp=sharing
+https://www.veed.io/download/b7b40dc4-3990-4b70-b848-33784e4bcab0
 
 ### Usage
 
@@ -26,8 +26,6 @@ https://drive.google.com/file/d/1xbWiByBpvsrHnwA5M1SkdVV5oY7w40aV/view?usp=shari
 - Open terminal
 
 - Clone this project by the command git clone https://github.com/mutinhiri/CapstonePr1
-
-- `Cd feature` folder
 
 - Open `index.html` in your local browser or using Live Server in Visual Studio Code.
 
