@@ -125,7 +125,6 @@ p {
   gap: 1px;
   background: #3c3f46;
   height: 100px;
-  padding-top: 6px;
   max-width: 100%;
   margin-bottom: 10px;
   overflow: hidden;
@@ -336,7 +335,6 @@ h5 {
   .mawaya {
     gap: 295px;
   }
-
 }
 
 @media (min-width: 768px) {
@@ -366,10 +364,10 @@ h5 {
     height: 70px;
   }
 
-  .projtext{
+  .projtext {
     font-size: 28px;
     margin-top: 20px;
-    margin-left: 54px
+    margin-left: 54px;
   }
 
   .projtxt2 {
@@ -405,7 +403,7 @@ h5 {
     display: flex;
   }
 
-  .partnerimj img{
+  .partnerimj img {
     width: 50px;
   }
 }
