@@ -55,8 +55,10 @@ Contributions, issues, and feature requests are welcome!
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-[Cindy-Shin] (https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
-- Thanks to Microverse community
+
+I want to thank Cindy Shin for Creating the original design you can find some of their work here: [Cindy-Shin] (https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
+
+Thanks to Microverse community for help and support in implementing this project
 
 ## 📝 License
 
