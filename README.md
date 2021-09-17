@@ -17,7 +17,7 @@
 
 ## Live presentation
 
-https://www.loom.com/share/6f72c85d55584ed49b15f5d769b4805f
+https://drive.google.com/file/d/1xbWiByBpvsrHnwA5M1SkdVV5oY7w40aV/view?usp=sharing
 
 ### Usage
 
@@ -25,7 +25,7 @@ https://www.loom.com/share/6f72c85d55584ed49b15f5d769b4805f
 
 - Open terminal
 
-- Clone this project by the command `git clone https://github.com/mutinhiri/CapstonePr1`
+- Clone this project by the command git clone https://github.com/mutinhiri/CapstonePr1
 
 - `Cd feature` folder
 
