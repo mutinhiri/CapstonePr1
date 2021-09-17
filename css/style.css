@@ -3,6 +3,7 @@ body {
   padding: 0;
   margin: 0;
   color: #272a31;
+  overflow-x: hidden;
 }
 
 .navbar {
@@ -46,7 +47,7 @@ h3 {
 
 
 .header{
-  display: flex;
+  display: none;
 }
 
 .header p {
@@ -70,6 +71,9 @@ p {
 
 .hbground {
   background-color: #d3d3d3;
+  max-height: 30px;
+  
+
 }
 
 .intro-details {
@@ -124,7 +128,7 @@ p {
   background: #3c3f46;
   height: 200px;
   padding-top: 60px;
-  max-width: 600px;
+  max-width: 100%;
   margin-bottom:10px
 }
 
@@ -138,15 +142,13 @@ p {
 
 .projtext {
   color: #ec5242;
-  border: 1px solid gray;
-  font-size: 25px;
-  min-width: 180px;
+  font-size: 23px;
+  max-width: 180px;
   
 }
 
 .projtxt2 {
   padding: 20px;
-  border: 1px solid green;
   font-size: 15px;
   color: whitesmoke;
   overflow:-moz-hidden-unscrollable;
@@ -212,6 +214,10 @@ nav a:hover {
   background-color: #2e2e2e;
 }
 
+.footer {
+  margin-top: 60px;
+}
+
 .partner-header,
 .footer-bg ul > li {
   color: #fbfbfb;
@@ -223,6 +229,37 @@ nav a:hover {
 
 .f-speaker > div > p:first-of-type {
   color: red;
+  font-style: italic;
+  width: 80%;
+  
+}
+
+.partner {
+  margin-bottom: 10px;
+  min-height: 200px;
+}
+
+.partner-title{
+  margin-top: 30px;
+}
+
+.partner img {
+  width: 99px;
+}
+
+.footr {
+  display: flex;
+  min-height: 200px;
+  margin-left: 98px;
+  justify-content: space-around;
+}
+
+.footerp{
+  margin-left: 3px;
+}
+
+.spimage>img {
+  width: 120px;
 }
 
 .cont {
@@ -245,17 +282,13 @@ nav a:hover {
 }
 
 .ham {
-  margin-top: 18px;
+  margin-top: 20px;
   height: 30px;
   width: 40px;
-  position: relative;
-  top: -50px;
+  position: absolte;
+  top: 5px;
 }
 
-.first-page {
-  position: relative;
-  top: -90px;
-}
 
 .mawaya {
   gap: 25px;
@@ -266,6 +299,10 @@ nav a:hover {
   height: 100px;
   position: relative;
   top: -40px;
+}
+
+.hbground {
+  max-height: 80px;
 }
 
 h5 {
@@ -293,6 +330,7 @@ h5 {
   .mawaya {
     gap: 295px;
   }
+
 }
 
 @media (min-width: 768px) {
@@ -300,10 +338,47 @@ h5 {
     width: 200px;
   }
 
-  .first-page{
-    position: relative;
-    top: -30px;
+  .project {
+    display: flex;
+    gap: 5px;
+    justify-content: center;
   }
+
+  .proj {
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    padding-top: 0px;
+    width: 200px;
+    
+  }
+
+  .projimage {
+    position: relative;
+    left: 45px;
+    margin-top: 30px;
+  }
+
+  .projtxt2 {
+    padding-top: 1px;
+  }
+
+  .footr{
+    display: flex;
+    gap: 4px;
+  }
+
+  .logitep {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .tfooter {
+    margin-left: -32%;
+    position: relative;
+    left: -;
+  }
+
 }
 
 @media (max-width: 400px) {
