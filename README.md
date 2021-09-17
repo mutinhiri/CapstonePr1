@@ -33,7 +33,7 @@ https://drive.google.com/file/d/1xbWiByBpvsrHnwA5M1SkdVV5oY7w40aV/view?usp=shari
 
 # Live Demo
 
-[Community development] (https://mutinhiri.github.io/Capstonepr1)
+[Community development] (https://mutinhiri.github.io/CapstonePr1)
 
 
 ## Authors
