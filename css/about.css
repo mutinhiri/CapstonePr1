@@ -59,6 +59,7 @@
   gap: 10px;
   font-size: 20px;
   font-weight: 500;
+  margin-top: 50px;
 }
 
 @media (min-width: 768px) {

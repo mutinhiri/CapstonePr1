@@ -227,7 +227,7 @@ nav a:hover {
 .f-speaker > div > p:first-of-type {
   color: red;
   font-style: italic;
-  width: 80%; 
+  width: 80%;
 }
 
 .partner {
@@ -295,10 +295,6 @@ nav a:hover {
   top: -40px;
 }
 
-.hbground {
-
-}
-
 h5 {
   color: rgb(202, 56, 56);
 }
@@ -324,7 +320,6 @@ h5 {
   .mawaya {
     gap: 295px;
   }
-
 }
 
 @media (min-width: 768px) {
