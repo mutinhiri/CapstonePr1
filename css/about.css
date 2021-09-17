@@ -14,7 +14,6 @@
   background-color: #2e2e2e;
 }
 
-
 .partner-header,
 .footer-bg ul > li {
   color: #fbfbfb;
@@ -59,11 +58,7 @@
   display: flex;
   gap: 10px;
   font-size: 20px;
-  font-weight: 500
-}
-
-.logo-design img {
-  width: ;
+  font-weight: 500;
 }
 
 @media (min-width: 768px) {

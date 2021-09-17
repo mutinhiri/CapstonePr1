@@ -45,14 +45,17 @@ h3 {
   color: #ec5242;
 }
 
-
-.header{
+.header {
   display: none;
+}
+
+p {
+  font-family: 'Lato', Arial, Helvetica, sans-serif;
 }
 
 .header p {
   font-size: 10px;
-  font-family: 'COCOGOOSE', Arial, Helvetica, sans-serif
+  font-family: 'COCOGOOSE', Arial, Helvetica, sans-serif;
 }
 
 .header-img {
@@ -61,19 +64,14 @@ h3 {
   position: relative;
   top: -9px;
 }
+
 .intro-bg {
   background-color: #d3d3d3;
 }
 
-p {
-  font-family: 'Lato', Arial, Helvetica, sans-serif;
-}
-
 .hbground {
   background-color: #d3d3d3;
-  max-height: 30px;
-  
-
+  max-height: 80px;
 }
 
 .intro-details {
@@ -129,7 +127,7 @@ p {
   height: 200px;
   padding-top: 60px;
   max-width: 100%;
-  margin-bottom:10px
+  margin-bottom: 10px;
 }
 
 .projimage {
@@ -144,15 +142,15 @@ p {
   color: #ec5242;
   font-size: 23px;
   max-width: 180px;
-  
 }
 
 .projtxt2 {
   padding: 20px;
   font-size: 15px;
   color: whitesmoke;
-  overflow:-moz-hidden-unscrollable;
+  overflow: -moz-hidden-unscrollable;
 }
+
 .underline hr {
   margin: 1rem auto;
   background-color: #ec5242;
@@ -170,9 +168,8 @@ p {
   color: #272a31;
 }
 
-
 .event-bg h3 {
-  color: #ec5242;
+  color: #9b8381;
 }
 
 .under-p {
@@ -230,8 +227,7 @@ nav a:hover {
 .f-speaker > div > p:first-of-type {
   color: red;
   font-style: italic;
-  width: 80%;
-  
+  width: 80%; 
 }
 
 .partner {
@@ -239,7 +235,7 @@ nav a:hover {
   min-height: 200px;
 }
 
-.partner-title{
+.partner-title {
   margin-top: 30px;
 }
 
@@ -254,11 +250,11 @@ nav a:hover {
   justify-content: space-around;
 }
 
-.footerp{
+.footerp {
   margin-left: 3px;
 }
 
-.spimage>img {
+.spimage > img {
   width: 120px;
 }
 
@@ -278,17 +274,15 @@ nav a:hover {
 
 .phello-text {
   font-size: 25px;
-  color:#ec5242;
+  color: #ec5242;
 }
 
 .ham {
   margin-top: 20px;
   height: 30px;
   width: 40px;
-  position: absolte;
   top: 5px;
 }
-
 
 .mawaya {
   gap: 25px;
@@ -302,7 +296,7 @@ nav a:hover {
 }
 
 .hbground {
-  max-height: 80px;
+
 }
 
 h5 {
@@ -348,9 +342,8 @@ h5 {
     display: flex;
     flex-direction: column;
     height: 300px;
-    padding-top: 0px;
+    padding-top: 1px;
     width: 200px;
-    
   }
 
   .projimage {
@@ -363,7 +356,7 @@ h5 {
     padding-top: 1px;
   }
 
-  .footr{
+  .footr {
     display: flex;
     gap: 4px;
   }
@@ -376,9 +369,7 @@ h5 {
   .tfooter {
     margin-left: -32%;
     position: relative;
-    left: -;
   }
-
 }
 
 @media (max-width: 400px) {
