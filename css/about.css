@@ -1,0 +1,111 @@
+.intro-details-abt {
+  background-color: #fff;
+  border: 2px solid #d3d3d3;
+  max-width: 600px;
+  color: #272a31;
+}
+
+.email {
+  color: black;
+  display: block;
+}
+
+.footer-bg {
+  background-color: #2e2e2e;
+}
+
+.footerp {
+  margin-right: 60px;
+}
+
+.partner-header,
+.footer-bg ul > li {
+  color: #fbfbfb;
+}
+
+.footer-lg {
+  height: 150px;
+}
+
+.ward-34 {
+  background-image: url(../img/ward.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 250px;
+  width: 350px;
+  color: #fbfbfb;
+}
+
+.ward-40 {
+  background-image: url(../img/wardl.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 250px;
+  width: 350px;
+  color: #fcfffd;
+}
+
+.conta {
+  height: 90px;
+  width: 190px;
+  position: relative;
+  top: -20px;
+}
+
+.hello-text {
+  display: none;
+}
+
+.partnerimj img {
+  width: 50px;
+}
+
+.logo-design {
+  display: flex;
+  gap: 10px;
+  font-size: 20px;
+  font-weight: 500;
+  margin-top: 50px;
+}
+
+.logitep {
+  display: flex;
+  column-gap: 60px;
+}
+
+.footlogo {
+  display: flex;
+}
+
+.foottxt {
+  font-size: 24px;
+}
+
+@media (min-width: 768px) {
+  .footer-lg {
+    background-color: #2e2e2e;
+    color: #fbfbfb;
+  }
+
+  .footr {
+    background-color: #2e2e2e;
+    color: #fbfbfb;
+  }
+
+  .partner {
+    display: none;
+  }
+
+  footer {
+    display: flex;
+    padding-left: 240px;
+    color: #fbfbfb;
+    background-color: #272a31;
+  }
+
+  .logitep {
+    column-gap: 190px;
+  }
+}

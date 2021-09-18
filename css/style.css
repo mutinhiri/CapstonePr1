@@ -1,0 +1,434 @@
+
+body {
+  padding: 0;
+  margin: 0;
+  color: #272a31;
+  overflow-x: hidden;
+}
+
+.navbar {
+  background-image: url(../img/worship.png);
+  background-position: bottom;
+  background-repeat: no-repeat;
+  height: 150px;
+  background-size: cover;
+  background-blend-mode: multiply;
+  font-family: 'Lato', Arial, Helvetica, sans-serif;
+}
+
+nav a {
+  color: #272a31;
+  font-family: 'Lato', Arial, Helvetica, sans-serif;
+}
+
+.border-nav {
+  border: 5px solid #ec5242;
+  max-width: 150px;
+}
+
+.border-nav a {
+  color: #ec5242;
+}
+
+.nav-link {
+  color: #272a31;
+}
+
+h1,
+h2,
+h3 {
+  font-family: 'COCOGOOSE', Arial, Helvetica, sans-serif;
+}
+
+.intro h1,
+.intro h2 {
+  color: #ec5242;
+}
+
+.header {
+  display: none;
+}
+
+p {
+  font-family: 'Lato', Arial, Helvetica, sans-serif;
+}
+
+.header p {
+  font-size: 10px;
+  font-family: 'COCOGOOSE', Arial, Helvetica, sans-serif;
+}
+
+.header-img {
+  height: 60px;
+  width: 60px;
+  position: relative;
+  top: -9px;
+}
+
+.intro-bg {
+  background-color: #d3d3d3;
+}
+
+.hbground {
+  background-color: #d3d3d3;
+  max-height: 80px;
+}
+
+.intro-details {
+  max-width: 600px;
+  border: 2px solid #fff;
+  font-family: 'Lato', Arial, Helvetica, sans-serif;
+  padding: 20px;
+}
+
+.show {
+  background-color: #d3d3d3;
+  width: 100%;
+}
+
+.sp-t {
+  max-width: 120px;
+}
+
+.close,
+.hamburger {
+  cursor: pointer;
+}
+
+#btn {
+  color: #fff;
+}
+
+#hamburger {
+  font-weight: 900;
+}
+
+.navbar-collapse-bg {
+  background-color: #d3d3d3;
+}
+
+.what-we-learn {
+  background-color: #272a31;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: multiply;
+  color: #fff;
+}
+
+.project {
+  max-width: 100%;
+}
+
+.proj {
+  display: flex;
+  gap: 1px;
+  background: #3c3f46;
+  height: 100px;
+  max-width: 100%;
+  margin-bottom: 10px;
+  overflow: hidden;
+  padding-top: 20px;
+}
+
+.projimage {
+  width: 30px;
+  height: 30px;
+  border-radius: 8px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.projtext {
+  color: #ec5242;
+  font-size: 17px;
+  text-align: left;
+  margin-right: 15px;
+}
+
+.projtxt2 {
+  padding: 2px;
+  font-size: 15px;
+  color: whitesmoke;
+  overflow: -moz-hidden-unscrollable;
+  text-align: left;
+}
+
+.underline hr {
+  margin: 1rem auto;
+  background-color: #ec5242;
+  opacity: 1;
+  width: 60px;
+}
+
+.event-bg {
+  background: #3c3f46;
+  height: 200px;
+  width: 100%;
+}
+
+.intro .date {
+  color: #272a31;
+}
+
+.event-bg h3 {
+  color: #9b8381;
+}
+
+.under-p {
+  border-bottom: 1px solid #fff;
+}
+
+.see-height {
+  height: 150px;
+}
+
+.see-height button {
+  border: 0;
+}
+
+.bg-join {
+  background-color: #ff4f38;
+  height: 100px;
+  color: #fff;
+}
+
+.sp-bg {
+  background-color: #3e3e3e;
+}
+
+.sp-bg li > a {
+  color: #fbfbfb;
+  text-decoration: none;
+}
+
+.nav-link:focus,
+.nav-link:hover,
+.nav-link:active,
+nav a:focus,
+nav a:hover {
+  color: #ff4f38;
+}
+
+.footer-bg {
+  background-color: #2e2e2e;
+}
+
+.footer {
+  margin-top: 60px;
+}
+
+.partner-header,
+.footer-bg ul > li {
+  color: #fbfbfb;
+}
+
+.footer-lg {
+  height: 150px;
+}
+
+.f-speaker > div > p:first-of-type {
+  color: red;
+  font-style: italic;
+  width: 80%;
+}
+
+.partner {
+  margin-bottom: 10px;
+  min-height: 200px;
+}
+
+.partner-title {
+  margin-top: 30px;
+}
+
+.partner img {
+  width: 99px;
+}
+
+.footr {
+  display: flex;
+  min-height: 100px;
+  margin-left: 98px;
+  justify-content: space-around;
+}
+
+.footerp {
+  margin-left: 3px;
+}
+
+.spimage > img {
+  width: 120px;
+}
+
+.cont {
+  height: 25px;
+  width: 25px;
+}
+
+.conta {
+  width: 190px;
+  height: 140px;
+}
+
+.hello-text {
+  font-size: 30px;
+}
+
+.phello-text {
+  font-size: 25px;
+  color: #ec5242;
+}
+
+.ham {
+  margin-top: 20px;
+  height: 30px;
+  width: 40px;
+  top: 5px;
+}
+
+.mawaya {
+  gap: 25px;
+}
+
+.contr {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  top: -40px;
+}
+
+h5 {
+  color: rgb(202, 56, 56);
+}
+
+.more {
+  text-align: center;
+  border: 2px solid gray;
+  padding: 20px;
+  font-size: 20px;
+  width: 98%;
+}
+
+.logitep {
+  display: flex;
+  column-gap: 50px;
+}
+
+.footlogo {
+  display: flex;
+  padding-left: 30px;
+}
+
+.foottext {
+  font-size: 24px;
+}
+
+.partnerimj img {
+  width: 50px;
+}
+
+@media (min-width: 992px) {
+  .navbar-expand-lg .navbar-collapse {
+    background-color: transparent;
+  }
+
+  .navbar {
+    background-image: unset;
+    background-color: #fff;
+  }
+
+  .intro-bg {
+    background-image: url(../img/worship.png);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: multiply;
+  }
+
+  .mawaya {
+    gap: 295px;
+  }
+
+  .logitep {
+    display: none;
+  }
+}
+
+@media (min-width: 768px) {
+  .event-bg {
+    width: 200px;
+  }
+
+  .project {
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+  }
+
+  .proj {
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    padding-top: 1px;
+    width: 200px;
+  }
+
+  .projimage {
+    position: relative;
+    left: 45px;
+    margin-top: 30px;
+    width: 70px;
+    height: 70px;
+  }
+
+  .projtext {
+    font-size: 28px;
+    margin-top: 20px;
+    margin-left: 54px;
+  }
+
+  .projtxt2 {
+    padding: 10px;
+    font-size: 19px;
+    text-align: center;
+  }
+
+  .more {
+    display: none;
+  }
+
+  .footr {
+    display: flex;
+    gap: 4px;
+  }
+
+  .logitep {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .tfooter {
+    margin-left: -32%;
+    position: relative;
+  }
+
+  .lastfoot {
+    display: block;
+  }
+
+  .footlogo {
+    display: flex;
+  }
+
+  .partnerimj img {
+    width: 50px;
+  }
+}
+
+@media (max-width: 400px) {
+  .event-bg h3,
+  .event-bg p {
+    font-size: 15px;
+  }
+}
