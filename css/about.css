@@ -72,12 +72,19 @@
 
 .logitep {
   display: flex;
-  margin-left: 50px;
-  justify-content: space-around;
+  column-gap: 60px;
 }
 
 .footlogo {
   display: flex;
+}
+
+footer {
+  padding-left: 40px;
+}
+
+.foottxt {
+  font-size: 24px;
 }
 
 @media (min-width: 768px) {
@@ -93,5 +100,15 @@
 
   .partner {
     display: none;
+  }
+
+  footer {
+    display: flex;
+    padding-left: 240px;
+    color: #fbfbfb;
+    background-color: #272a31;
+  }
+  .logitep {
+    column-gap: 190px;
   }
 }
