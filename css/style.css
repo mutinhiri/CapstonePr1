@@ -324,7 +324,7 @@ h5 {
   font-size: 24px;
 }
 
-.partnerimj img{
+.partnerimj img {
   width: 50px;
 }
 
@@ -349,6 +349,7 @@ h5 {
   .mawaya {
     gap: 295px;
   }
+
   .logitep {
     display: none;
   }
@@ -399,8 +400,7 @@ h5 {
 
   .footr {
     display: flex;
-    gap: 4px;
-    
+    gap: 4px;  
   }
 
   .logitep {
