@@ -310,8 +310,22 @@ h5 {
   width: 98%;
 }
 
-.lastfoot {
-  display: none;
+.logitep {
+  display: flex;
+  column-gap: 50px;
+}
+
+.footlogo {
+  display: flex;
+  padding-left: 30px;
+}
+
+.foottext {
+  font-size: 24px;
+}
+
+.partnerimj img{
+  width: 50px;
 }
 
 @media (min-width: 992px) {
@@ -334,6 +348,9 @@ h5 {
 
   .mawaya {
     gap: 295px;
+  }
+  .logitep {
+    display: none;
   }
 }
 
